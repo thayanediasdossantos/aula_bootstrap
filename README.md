@@ -1,2 +1,2 @@
-# aula_bootstrap
-utilizando bootstrap
+#App
+aplicativo com java script puro
